@@ -11,6 +11,7 @@ Requeriminetos to replicate work in windows:
 7. Open the project
 8. If you need to define grails, the location of the previously downloaded file will be used
 9. Execute.
+
 es:
 Otra versión de login usando grails creado desde intellij.
 Requeriminetos para replicar trabajo en windows:
